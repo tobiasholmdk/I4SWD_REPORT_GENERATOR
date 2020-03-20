@@ -1,0 +1,11 @@
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/obj/Debug/netcoreapp3.1/Report_generator_SWD.csprojAssemblyReference.cache
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/obj/Debug/netcoreapp3.1/Report_generator_SWD.AssemblyInfoInputs.cache
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/obj/Debug/netcoreapp3.1/Report_generator_SWD.AssemblyInfo.cs
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/bin/Debug/netcoreapp3.1/Report_generator_SWD
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/bin/Debug/netcoreapp3.1/Report_generator_SWD.deps.json
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/bin/Debug/netcoreapp3.1/Report_generator_SWD.runtimeconfig.json
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/bin/Debug/netcoreapp3.1/Report_generator_SWD.runtimeconfig.dev.json
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/bin/Debug/netcoreapp3.1/Report_generator_SWD.dll
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/bin/Debug/netcoreapp3.1/Report_generator_SWD.pdb
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/obj/Debug/netcoreapp3.1/Report_generator_SWD.dll
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/Report_generator_SWD/obj/Debug/netcoreapp3.1/Report_generator_SWD.pdb

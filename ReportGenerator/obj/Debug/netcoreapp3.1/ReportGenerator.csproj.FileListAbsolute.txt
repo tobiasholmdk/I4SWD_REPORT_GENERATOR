@@ -1,0 +1,11 @@
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/bin/Debug/netcoreapp3.1/ReportGenerator
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/bin/Debug/netcoreapp3.1/ReportGenerator.deps.json
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/bin/Debug/netcoreapp3.1/ReportGenerator.runtimeconfig.json
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/bin/Debug/netcoreapp3.1/ReportGenerator.runtimeconfig.dev.json
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/bin/Debug/netcoreapp3.1/ReportGenerator.dll
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/bin/Debug/netcoreapp3.1/ReportGenerator.pdb
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/obj/Debug/netcoreapp3.1/ReportGenerator.csprojAssemblyReference.cache
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/obj/Debug/netcoreapp3.1/ReportGenerator.AssemblyInfoInputs.cache
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/obj/Debug/netcoreapp3.1/ReportGenerator.AssemblyInfo.cs
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/obj/Debug/netcoreapp3.1/ReportGenerator.dll
+/Users/holm/Documents/untitled folder 2/Report_generator_SWD/ReportGenerator/obj/Debug/netcoreapp3.1/ReportGenerator.pdb
